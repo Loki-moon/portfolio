@@ -184,7 +184,7 @@ section .title::after {
 @supports (-webkit-touch-callout: none) {
   .home {
     background: url("images/banner.jpg") center top no-repeat scroll;
-    background-size: auto 120vh;
+    background-size: 100vh;
   }
 }
 .home .max-width {
