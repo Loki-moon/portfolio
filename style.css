@@ -102,7 +102,7 @@ section .title::after {
 }
 .navbar .logo a {
   color: #fff;
-  font-size: 35px;
+  font-size: 20px;
   font-weight: 600;
 }
 .navbar .logo a span {
@@ -195,15 +195,15 @@ section .title::after {
   margin-right: 0;
 }
 .home .home-content .text-1 {
-  font-size: 27px;
+  font-size: 23px;
 }
 .home .home-content .text-2 {
-  font-size: 75px;
+  font-size: 55px;
   font-weight: 600;
   margin-left: -3px;
 }
 .home .home-content .text-3 {
-  font-size: 40px;
+  font-size: 19px;
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
