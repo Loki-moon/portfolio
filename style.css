@@ -170,11 +170,14 @@ section .title::after {
 .home {
   display: flex;
   background: url("images/banner.jpg");
-  background-attachment: scroll;
+  background-attachment: scroll, center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   max-width: 100%;
   height: 100vh;
   color: #fff;
