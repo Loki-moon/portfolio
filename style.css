@@ -168,7 +168,7 @@ section .title::after {
 
 /* home section styling */
 .home {
-  display: flex;
+  display: grid;
   background: url("images/banner.jpg") no-repeat center;
   max-width: 100%;
   height: 100vh;
@@ -387,7 +387,7 @@ section .title::after {
 
 /* teams section styling */
 .teams .title::after {
-  content: "who with me";
+  content: "what i experienced";
 }
 .teams .carousel .card {
   background: #222;
