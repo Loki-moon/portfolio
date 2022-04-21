@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["프로젝트 매니저(PM)", "연구원(Researcher)", "개발자(Developer)", "프로덕트 오너(PO)"],
+        strings: ["프로덕트 매니저(PM)", "연구원(Researcher)", "UI 개발자(UI Developer)", "프로덕트 오너(PO)"],
         typeSpeed: 100,
         backSpeed: 80,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["프로젝트 매니저(PM)", "연구원(Researcher)", "개발자(Developer)", "프로덕트 오너(PO)"],
+        strings: ["프로덕트 매니저(PM)", "연구원(Researcher)", "UI 개발자(UI Developer)", "프로덕트 오너(PO)"],
         typeSpeed: 100,
         backSpeed: 80,
         loop: true
