@@ -468,6 +468,20 @@ section .title::after {
   font-weight: 500;
   margin: 10px 0 7px 0;
 }
+.project .servbox .cardbox .text-4 {
+  font-size: 18px;
+  font-weight: 550;
+  margin-top: 10px;
+}
+.project .servbox .cardbox .text-5 {
+  font-size: 15px;
+  font-weight: 300;
+  margin-top: 10px;
+}
+.project .servbox .cardboxt .text-6 {
+  font-size: 15px;
+  font-weight: 300;
+}
 .project .servbox .cardbox img {
   height: 150px;
   width: 150px;
@@ -508,10 +522,10 @@ section .title::after {
   margin: 10px 0 7px 0;
 }
 .teams .carousel .card img {
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 15%;
   border: 5px solid crimson;
   transition: all 0.3s ease;
 }
@@ -520,7 +534,8 @@ section .title::after {
 }
 .owl-dots {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 2px;
+  margin-bottom: 30px;
 }
 .owl-dot {
   height: 13px;
@@ -653,7 +668,7 @@ footer span a:hover {
 /* responsive media query start */
 @media (max-width: 1104px) {
   .about .about-content .left img {
-    height: 350px;
+    height: 100%;
     width: 350px;
   }
 }
