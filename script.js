@@ -36,15 +36,29 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["프로덕트 매니저(PM)", "연구원(Researcher)", "UI 개발자(UI Developer)", "프로덕트 오너(PO)"],
-        typeSpeed: 100,
-        backSpeed: 80,
+        typeSpeed: 60,
+        backSpeed: 20,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["프로덕트 매니저(PM)", "연구원(Researcher)", "UI 개발자(UI Developer)", "프로덕트 오너(PO)"],
-        typeSpeed: 100,
-        backSpeed: 80,
+        strings: ["프로덕트 오너(PO)", "프로덕트 매니저(PM)", "UI 개발자(UI Developer)", "연구원(Researcher)"],
+        typeSpeed: 60,
+        backSpeed: 20,
+        loop: true
+    });
+
+    var typed = new Typed(".typing-3", {
+        strings: ["63억 8400만원"],
+        typeSpeed: 60,
+        backSpeed: 20,
+        loop: true
+    });
+
+    var typed = new Typed(".typing-4", {
+        strings: ["41억 2686만원"],
+        typeSpeed: 60,
+        backSpeed: 20,
         loop: true
     });
 
