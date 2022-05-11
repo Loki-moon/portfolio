@@ -433,7 +433,7 @@ section .title::after {
   background: #fff;
 }
 .project .title::after {
-  content: "People Count";
+  content: "Problem Plunger";
   background: #222;
 }
 .project .servbox .cardbox {
