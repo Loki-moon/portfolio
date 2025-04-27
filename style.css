@@ -401,17 +401,23 @@ section .title::after {
 .skills-content .right .html::before {
   width: 75%;
 }
-.skills-content .right .css::before {
+.skills-content .right .JS::before {
   width: 60%;
 }
-.skills-content .right .js::before {
+.skills-content .right .R::before {
   width: 85%;
 }
-.skills-content .right .php::before {
+.skills-content .right .python::before {
   width: 70%;
 }
-.skills-content .right .mysql::before {
+.skills-content .right .mySql::before {
   width: 90%;
+}
+.skills-content .right .AdTech::before {
+  width: 90%;
+}
+.skills-content .right .osPolicy::before {
+  width: 100%;
 }
 .skills-content .column .text-4 {
   font-size: 18px;
