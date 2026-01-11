@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["서비스 기획자(PM)", "프로덕트 오너(PO)", "데이터 분석가(Data Analyst)", "연구원(Researcher)"],
+        strings: ["서비스 기획자(PM)", "프로덕트 오너(PO)", "데이터 분석가(Data Analyst)"],
         typeSpeed: 60,
         backSpeed: 20,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["서비스 기획자(PM)", "프로덕트 오너(PO)", "데이터 분석가(Data Analyst)", "연구원(Researcher)"],
+        strings: ["서비스 기획자(PM)", "프로덕트 오너(PO)", "데이터 분석가(Data Analyst)"],
         typeSpeed: 60,
         backSpeed: 20,
         loop: true
@@ -70,4 +70,5 @@ $(document).ready(function(){
             }
         }
     });
+
 });
